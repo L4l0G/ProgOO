@@ -30,4 +30,5 @@ La herencia en la programación te permite tomar atributos y métodos de una cla
 
 El UML fue desarrollado por Grady Booch, Ivar Jacobson y Jim Rumbaugh, y se originó como resultado de la unión de OMT y OOSE. El UML se suele utilizar en sistemas de software, aunque también suele tener usos fuera del ámbito del software, ya que es un lenguaje bastante útil para ilustrar la estructura de un sistema. En la actualidad, el UML se utiliza como un lenguaje estándar al momento de realizar análisis y el diseño de sistemas de cómputo, especialmente el diagrama de datos, el cual sirve para mostrar la estructura del sistema con clases, atributos, operaciones y relación entre objetos. Algunas herramientas que se pueden utilizar UML son LucidChart, MagicDraw, GitMind, Microsoft Visio, IBM Rational Rhapsody y Gliffy.
 
-![image]("C:\Users\mibeb\Desktop\Universidad\Semestre II\POO\Unidad II\UML Máquina.jpg")
+![image](![UML Máquina](https://user-images.githubusercontent.com/124205317/225533077-60eb4516-5c37-4387-b567-ea5456a8a196.jpg)
+)
