@@ -13,14 +13,17 @@ En la abstracción se seleccionan datos relevantes dentro de un objeto, ocultand
 El encapsulamiento dentro de la programación orientada a objetos sirve para limitar el acceso de una propiedad en una estructura. 
 
 **Programa sin encapsulamiento**
+
 ![image](http://2.bp.blogspot.com/-h9Eb60hvfIU/UFbtHKHjCgI/AAAAAAAAAPs/yhPNwfax_30/s400/Encapsulamiento2.jpg)
 
 **Programa con encapsulamiento**
+
 ![image](http://3.bp.blogspot.com/-ZnaeA0MP7wc/UFby5OpRjYI/AAAAAAAAAQQ/U5QunC_bdL4/s400/Encapsulamiento3.jpg) 
 
 Al encapsular nuestro programa, podemos controlar las acciones que nosotros realizemos, además de poder realizar cambios dentro del mismo sin otorgar problemas en su funcionamiento.
 
 La herencia en la programación te permite tomar atributos y métodos de una clase para utilizarlos dentro de otra clase.
+
 ![image](https://lh3.googleusercontent.com/GfutlKHifRYdWoc5JIhWSXr1T6LTTSXsp1IHL2Ynbirdr0o7j46xFrr1EIUaNga1l_H5ErMmb-_9Lf82QBNbClda5luFIoY2t8pybtD3KIXclvTA8BrSD4iPQW3v_SGXsZ_KXRTEA3dA2VIS8SYt5htXMp5Z6aexsR4CPVxRGHunoNDuFpVplXiDlynSO8omfJMtdoMQLRESDQpJs-8syhBXbj9trsVMG1_ngi5Q-p7g77apYMugu3kM0DS-w_1rzSwUxC4UCWHB-aKBXeeueavFR7ats6cI4mFoCaqbMskwg1cvVGNXBqyNqk9abv5Uo-bqjhp6TXKTNbOA5xCoPQuS3SnecTKWOEnnKXxNWYb9YyCNoDK0eqS3lczUpVItH6PZK1JX-5jzTC2RgjCUEMBRwq6BjHFDMWYMqox20ASIQ0NPM0fGX94XCffRunJrwEqyu6R6w06i5HdOus7w16VNQ80t8EdJSSE3fhnkeJxnK-YsTTfLUhB_j8U_YnmtLhEs9DDIQM8vzhJSaZ4Y_mNOP_dkUXVq1ukB3qEVx03frDBGWuKyLvX4utLc8AgCvnGoczABR_MuZbXsMwsKEMIZRs1fkh7-kI7NbvJXGHBZfyPE-Kcv=w553-h258-no)
 
 #UML
