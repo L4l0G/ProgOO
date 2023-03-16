@@ -21,4 +21,4 @@
 
 Tarea Unidad I
 
-[LINK]https://github.com/L4l0G/ProgOO/blob/92e764ba917a634901303d7168d8d7edbb12e57f/ParadigmaOO/README.md
+https://github.com/L4l0G/ProgOO/blob/92e764ba917a634901303d7168d8d7edbb12e57f/ParadigmaOO/README.md
